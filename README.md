@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/19410a99-4f7a-474a-9ffd-258f5b7816dd)
+![banner](https://github.com/user-attachments/assets/50aed925-ece5-41d0-b19c-7e2bd7290d64)
 
 # PoseVision: Real-Time Landmark Tracker
 
