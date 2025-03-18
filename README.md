@@ -66,7 +66,7 @@ PoseVision grabs your webcam feed with OpenCV, processes it with MediaPipe to fi
  - Save images or videos with timestamps.
  - Guess simple actions by checking where your hands are compared to your shoulders.
 
-<img src="https://github.com/user-attachments/assets/7f4a45e2-a758-4e71-a1d3-f6dad45cf780" width="600" height="450">
+<img src="https://github.com/user-attachments/assets/2e88f2f9-d843-4f41-82dc-28c448d1a10d" width="600" height="450">
 
 # Notes
  - Make sure your webcam is plugged in and working.
